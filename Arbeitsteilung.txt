@@ -1,0 +1,15 @@
+Sarp Cagin Erdogan 12205739:
+SandboxSettings (Kopplung von Inputfeldern mit dazugehörigen Variablen), SandboxSettingSpawner and SettingSpeicherung zwischen Szenen.
+Scripts: BulletBehaviour, BulletSpawner, EnemyBehaviour, EnemySpawner, FPSCap, PlayerBehaviour, SandboxSettings, SettingsSpawner, TowerBehaviour, TowerManager (Sell and if-cases)
+
+Pham Trong Nghia :12040105 
+Screens design: Mainmenu, Pausmenu, Gameover.
+Scripts: Mainmenu, Pausmenu, Sounds and TowerButton, TowerManager, GameOver, Playerbehaviour (Pause,Reset and Resume mechanics)
+
+Nhat Hoang Vu: 11967740
+Alle Grafik (Enemy, button, bullet, tower, map, slot, UI)
+Animation von enemy
+Sounds.
+
+
+Szene und Prefab Designs wurden zusammen gemacht.
